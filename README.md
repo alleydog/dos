@@ -2,9 +2,9 @@
 
 #### rskd.com Russian Screen & Keyboard Driver v3.0 Copyright (C) 1993-94 Khoshenko A.V.
 
-![image](https://user-images.githubusercontent.com/51403105/147448789-579f8cad-d19d-49d0-8f30-04f5538bea3b.png)
-
 ![image](https://user-images.githubusercontent.com/51403105/147448222-8a29e717-dfd2-4a1e-930f-7324ba86ed14.png)
+
+![image](https://user-images.githubusercontent.com/51403105/147448789-579f8cad-d19d-49d0-8f30-04f5538bea3b.png)
 
 ![image](https://user-images.githubusercontent.com/51403105/147448297-3cec57a3-1261-4b2c-9467-ecdb9ac7aeeb.png)
 
